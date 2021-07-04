@@ -1,0 +1,27 @@
+html, body {
+    background-color: #F7F7F7;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+#chuck-norris-app {
+    height: 100%;
+    width: 98%;
+    margin: auto;
+}
+.wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+}
+.img {
+    width: 50%;
+}
+.quote {
+    width: 50%;
+}
+h1 {
+    font-size: 4vw;
+    font-style: italic;
+}
